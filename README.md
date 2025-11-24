@@ -259,10 +259,8 @@ if __name__=="__main__":
   <li>Store results in a database for analytics.</li>
   <li>Visualize similarity and latency with charts.</li>
 </ul>
-
 <h2>License</h2>
 <p>MIT License</p>
-
 </body>
 </html>
 
